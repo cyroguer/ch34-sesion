@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    color: #1C6246;
+}
+
+body{
+   background-color: #D2E4D6;
+   color: #3F4A3C;
+   margin: 10%;
+
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h2{
+    color: #0A563B;
+}
+h3{
+    color: #0A563B;
+    font-style: italic;
+}
+
+#photo{
+    width: 50%;
+    height: 50%;
+    float: right;
+    border-radius: 8px;
+    margin: 3%;
+}
+
+div{
+    float: left;
+    text-align: justify;
+    margin: 3%;
+    
+
+}
+dt{
+    font-weight: bold;
+}
+a {
+    color: #534D97;
+}
